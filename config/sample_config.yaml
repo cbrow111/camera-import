@@ -1,0 +1,10 @@
+target_volume: 0.80
+cast_ip: 192.168.2.55
+file_to_cast: /tmp/magic_ascend2.wav
+sftp_remote: sftpgo
+camera_manufacturer: Canon
+rclone_config_file: /home/.config/rclone/rclone.conf
+cast_device_name: Kitchen speaker
+worker_count: 4
+cast_audio_on_completion: true
+delete_images_after_upload: true

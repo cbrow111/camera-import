@@ -1,0 +1,10 @@
+target_volume: 0.80
+cast_ip: 192.168.1.0
+cast_audio_on_completion: true
+file_to_cast: /file/to/cast
+sftp_remote: sftpgo
+camera_manufacturer: Canon
+rclone_config_file: /config/rclone.conf
+cast_device_name: Kitchen Speaker
+worker_count: 4
+delete_images_after_upload: true
